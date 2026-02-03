@@ -28,6 +28,6 @@ This project applies computer vision to learn gender-related visual patterns fro
 
 * Optimizer: Adam
 
-* Learning Rate: 1e-4
+* Learning Rate: 0.0001
 
 * Batch Size: 32
