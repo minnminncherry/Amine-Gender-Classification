@@ -2,11 +2,11 @@
 This is my first Kaggle competition project, focused on classifying gender (male/female) from anime face images using deep learning.
 The model is trained using MobileNetV2, a lightweight pretrained CNN, which allows efficient training while maintaining good performance.
 
-## Project Overview
+### Project Overview
 Anime characters often have stylized facial features that make gender classification challenging.
 This project applies computer vision to learn gender-related visual patterns from anime faces.
 
-## Model & Method
+### Model & Method
 
 **Model:** MobileNetV2 (pretrained on ImageNet)
 
